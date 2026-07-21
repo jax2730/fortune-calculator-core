@@ -1,0 +1,20 @@
+{
+  "name": "@fortune/calculator-public",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "exports": { ".": "./src/public-index.ts" },
+  "scripts": {
+    "test": "vitest run --passWithNoTests",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "iztro": "2.5.8",
+    "lunar-typescript": "^1.8.6"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "typescript": "~6.0.2",
+    "vitest": "^4.1.10"
+  }
+}
