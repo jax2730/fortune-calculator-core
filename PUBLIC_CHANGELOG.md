@@ -18,3 +18,4 @@ Private implementation details and user data are intentionally excluded.
 - 2026-07-22 鈥?design professional chart detail views ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-07-22 鈥?add evidence-based useful-god analysis ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-07-22 鈥?add annual fortune timeline through age 65 ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
+- 2026-07-22 鈥?add Ziwei body palace and annual dynamics ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))

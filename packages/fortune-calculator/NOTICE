@@ -37,4 +37,16 @@ bazi-analysis-skill
 Upstream: https://github.com/maochengsun16-code/bazi-analysis-skill
 Usage: methodology reference for useful-god priority and annual interpretation
 License: MIT
+
+Ziwei dynamic-year adapter
+---------------------------
+iztro
+Upstream: https://github.com/SylarLong/iztro
+Usage: annual palace mappings, four transformations and dynamic stars
+License: MIT
+
+ziwei-master
+Upstream: https://github.com/leung95/ziwei-master
+Usage: MIT reference implementation for the iztro horoscope adapter
+License: MIT
 ================================================================================
