@@ -30,4 +30,11 @@ This product includes third-party open-source components.
 本项目自有部分（calculator/bazi-enrich/、prompts/、templates/、render.ts、
 dump-text.ts、run-chart.ts 等）以 MIT 协议发布，见 LICENSE 文件。
 The original parts of this project are released under the MIT License (see LICENSE).
+
+Additional methodology reference
+--------------------------------
+bazi-analysis-skill
+Upstream: https://github.com/maochengsun16-code/bazi-analysis-skill
+Usage: methodology reference for useful-god priority and annual interpretation
+License: MIT
 ================================================================================
