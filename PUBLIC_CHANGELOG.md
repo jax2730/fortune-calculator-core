@@ -8,3 +8,4 @@ Private implementation details and user data are intentionally excluded.
 - 2026-07-21 鈥?refine neutral onboarding experience ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-07-22 鈥?design the fortune analysis workbench ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-07-22 鈥?add deterministic fortune calculation core ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
+- 2026-07-22 鈥?deliver the fortune workbench interface ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
