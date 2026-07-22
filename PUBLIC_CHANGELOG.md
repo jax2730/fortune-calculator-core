@@ -22,3 +22,4 @@ Private implementation details and user data are intentionally excluded.
 - 2026-07-22 鈥?expose professional Bazi and Ziwei views ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-07-23 鈥?design secure poster browser flow ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-07-23 鈥?recover reports and open posters externally ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
+- 2026-07-23 鈥?restore structured poster timelines ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
