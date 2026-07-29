@@ -26,3 +26,4 @@ Private implementation details and user data are intentionally excluded.
 - 2026-07-23 鈥?design one-click service startup ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-07-23 鈥?add the one-click service launcher ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-07-23 鈥?make launcher dependency resolution portable ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
+- 2026-07-29 鈥?design highlighted long-form responses ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
