@@ -30,3 +30,4 @@ Private implementation details and user data are intentionally excluded.
 - 2026-07-29 鈥?design in-app application updates ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-07-29 鈥?design the sanitized public mirror ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-07-29 鈥?add sanitized public mirror synchronization ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
+- 2026-08-05 鈥?rebuild sanitized public history ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
