@@ -32,3 +32,4 @@ Private implementation details and user data are intentionally excluded.
 - 2026-07-29 鈥?add sanitized public mirror synchronization ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-08-05 鈥?rebuild sanitized public history ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
 - 2026-08-06 鈥?unify mobile navigation and async flow ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
+- 2026-08-06 鈥?keep long-running mirror checks fresh ([#1](https://github.com/jax2730/fortune-calculator-core/issues/1))
